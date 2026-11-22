@@ -15,7 +15,7 @@ BEGIN
   -- Inserción de datos nuevos
   INSERT INTO departments2 VALUES (280, 'Aseo', NULL, 1700);
   INSERT INTO departments2 VALUES (290, 'Cocina', NULL, 1700);
-  INSERT INTO departments2 VALUES (300, 'Seguridad', NULL, 1700)
+  INSERT INTO departments2 VALUES (300, 'Seguridad', NULL, 1700);
   
   DBMS_OUTPUT.PUT_LINE(' 3 filas insertadas temporalmente. Sin commit.');
   
